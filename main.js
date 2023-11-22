@@ -30,5 +30,5 @@ function clickFollow() {
 }
 
 // スクロール処理とフォロー処理を交互に行います
-setInterval(scrollPage, 2000);
+setInterval(scrollPage, 20000);
 clickFollow(); // この行をコメントアウトを解除して実行する
